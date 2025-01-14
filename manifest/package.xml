@@ -34,6 +34,8 @@
     </types>
     <types>
         <members>Employee__c</members>
+        <members>Cloud_News__e</members>
+        <members>Order_Event__e</members>
         <name>CustomObject</name>
     </types>
     <types>
