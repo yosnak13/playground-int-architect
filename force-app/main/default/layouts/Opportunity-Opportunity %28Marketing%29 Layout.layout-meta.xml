@@ -27,7 +27,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>TestURL__c</field>
+                <field>Sample__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>SampleURL__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
