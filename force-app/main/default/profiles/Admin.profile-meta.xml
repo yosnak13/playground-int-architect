@@ -795,10 +795,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>TerritoryOperations</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>TransactionalEmailSend</name>
     </userPermissions>
     <userPermissions>
